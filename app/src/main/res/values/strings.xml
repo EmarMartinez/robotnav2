@@ -51,7 +51,7 @@
     <string name="getname">getname</string>
 
     <string name="navigation_stop">Parar</string>
-    <string name="navigation_resume_direction">Continuar</string>
+    <string name="navigation_resume_direction">Orientar</string>
 
 
     <string name="charge_disable">Disable Auto-Charge</string>
